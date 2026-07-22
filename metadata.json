@@ -1,0 +1,6 @@
+{
+  "name": "NavX",
+  "description": "An ephemeral, zero-tracking web search and page-rendering proxy that routes all traffic in memory with absolute local privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
